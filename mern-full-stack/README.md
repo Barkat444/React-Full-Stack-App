@@ -1,6 +1,6 @@
 
 
-### Follow these two steps to start both front-end and backend
+### Follow these steps to start both the servers
 ```js
 
 Step 1: cd client
